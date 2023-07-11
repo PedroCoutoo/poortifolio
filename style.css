@@ -13,7 +13,7 @@ body{
 }
 .background{
     background: linear-gradient(rgb(0,0,0,0.5) rgb(0,0,0,0,5));
-    background-image:url(foto\ baiuca.jpg);
+    background-image:url(background.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
@@ -34,7 +34,7 @@ header{
     cursor: pointer;
 }
 .cabecalho-link a{
-    color:#fff;
+    color: #fff;;
     font-size: 12px;
 
 }
